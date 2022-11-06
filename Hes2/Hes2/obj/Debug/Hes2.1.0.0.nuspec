@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Hes2</id>
+    <version>1.0.0</version>
+    <authors>Hes2</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Zeynep Hande\source\repos\Hes2\Hes2\bin\Debug\net5.0\Hes2.runtimeconfig.json" target="lib\net5.0\Hes2.runtimeconfig.json" />
+    <file src="C:\Users\Zeynep Hande\source\repos\Hes2\Hes2\bin\Debug\net5.0\Hes2.dll" target="lib\net5.0\Hes2.dll" />
+  </files>
+</package>
